@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project by Group ABA01 from the MIS 546: Advanced Business Analytics course aims to leverage advanced machine learning techniques to analyze Yelp reviews. Our goal is to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized recommendations for users.
+This project by Group ABA01 from the MIS 546: Advanced Business Analytics course at Iowa State University aims to leverage advanced machine learning techniques to analyze Yelp reviews. We aim to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized user recommendations.
 
 **Objectives**
 
@@ -30,7 +30,7 @@ Our project provides predictive insights and personalized recommendations, helpi
 
 **Data Sources**
 
-The project uses a dataset freely available from the Yelp Dataset consisting of user-generated reviews.
+The project uses a dataset freely available from the https://www.yelp.com/dataset Yelp Dataset consisting of user-generated reviews.
 
 **Technologies Used**
 
