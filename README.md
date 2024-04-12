@@ -1,4 +1,4 @@
-**Yelp Review Analysis & Recommendation System******
+**Yelp Review Analysis & Recommendation System**
 
 **Overview**
 
@@ -24,15 +24,15 @@ Many businesses still rely on manual analysis and basic statistics, missing out 
 
 **Recommendation Engine:** Developing a system to provide personalized suggestions based on user preferences.
 
-Significance
+**Significance**
 
 Our project provides predictive insights and personalized recommendations, helping businesses differentiate themselves and enabling customers to make informed decisions.
 
-Data Sources
-
+**Data Sources
+**
 The project uses a dataset freely available from the Yelp Dataset consisting of user-generated reviews.
 
-Technologies Used
+**Technologies Used**
 
 Natural Language Processing (NLP)
 Machine Learning Models (Naïve Bayes, SVM, Random Forest, etc.)
