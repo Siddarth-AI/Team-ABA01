@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project by Group ABA01 from the MIS 546: Advanced Business Analytics course at Iowa State University aims to leverage advanced machine learning techniques to analyze Yelp reviews. We aim to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized user recommendations.
+This project by Group ABA01 from the MIS 546: Advanced Business Analytics course at Iowa State University aims to leverage advanced machine learning techniques to analyze Yelp reviews. We aim to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized user recommendations. Here is our full report at https://medium.com/@anastasiia.prydius/f9101751f4b9
 
 **Objectives**
 
