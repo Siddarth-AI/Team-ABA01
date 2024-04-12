@@ -16,10 +16,10 @@ Many businesses still rely on manual analysis and basic statistics, missing out 
 
 Approach
 
-Data Preparation: Utilizing NLP techniques for data cleaning and feature extraction.
-Sentiment Analysis: Employing machine learning models to classify review sentiments.
-Rating Prediction: Using sentiment analysis to predict business ratings.
-Recommendation Engine: Developing a system to provide personalized suggestions based on user preferences.
+**Data Preparation:** Utilizing NLP techniques for data cleaning and feature extraction.
+**Sentiment Analysis:** Employing machine learning models to classify review sentiments.
+**Rating Prediction:** Using sentiment analysis to predict business ratings.
+**Recommendation Engine:** Developing a system to provide personalized suggestions based on user preferences.
 
 Significance
 
