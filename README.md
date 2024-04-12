@@ -1,5 +1,3 @@
-# yelp
-Sentiment Analysis, Rating Prediction, and Recommendation Engine for Local Businesses Using Yelp Reviews 
 Yelp Review Analysis & Recommendation System
 Overview
 This project by Group ABA01 from the MIS 546: Advanced Business Analytics course aims to leverage advanced machine learning techniques to analyze Yelp reviews. Our goal is to gain a deeper understanding of consumer sentiments, accurately predict business ratings, and generate personalized recommendations for users.
